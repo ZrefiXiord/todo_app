@@ -4,7 +4,6 @@ import 'screens/home.dart';
 import 'model/todo.dart';
 
 void main() {
-
   runApp(MyApp());
 }
 
